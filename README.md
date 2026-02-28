@@ -42,12 +42,23 @@ Currently leading AI-led initiatives at [Stitchflow](https://www.stitchflow.com)
 | One Good Thing | No-code pandemic wellness curation tool |
 | VaniHQ | Visual collaboration platform — built 0 → 1 at Zoho |
 
+<h2> My World Beyond Product </h2>
+
+🎙️ **[The Founder's Foyer](https://www.thefoundersfoyer.com)** — My podcast and builder collective for early-stage founders, creators, and builders. 65+ episodes of hallway conversations on Product, Ideas, and Growth — featuring guests like **Shreyas Doshi** (ex-Stripe, Google, Twitter), **Wes Kao** (Co-Founder, Maven), **Dan Shipper** (Founder, Every), and leaders from Google, Meta, and high-growth startups. **1st Place**, Battle of Voices 2024. Listen on [Spotify](https://open.spotify.com/show/7xov9chTGQ5F9rP5N0J78v) · [Apple Podcasts](https://podcasts.apple.com/podcast/the-founders-foyer) · [YouTube](https://www.youtube.com/@thefoundersfoyer).
+
+🌐 **[aishashok.com](https://aishashok.com)** — My personal space where I write about technology, product management, design, and life philosophy. Includes my product & tech articles, newsletter, art, poetry, and thoughts on building at the intersection of growth mindset, empathy, and ethical tech.
+
+🎨 **[Rue Des Arts](https://shop.aishashok.com)** — My handpainted watercolor art shop. Fine-binding notebooks, art prints, postcards, and travel tags inspired by streets and stories from Madras, Goa, Jaipur, Hampi, and beyond. Every piece is hand-illustrated — because I believe builders should create with their hands too.
+
+✍️ **[Newsletter](https://aishwarya.substack.com)** — Where I write about AI, product building, and the founder journey.
+
 <h2> Connect </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-ashok/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://aishwarya.substack.com/)
-[![Spotify](https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/7xov9chTGQ5F9rP5N0J78v)
+[![Podcast](https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/7xov9chTGQ5F9rP5N0J78v)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thefoundersfoyer)
+[![Art Shop](https://img.shields.io/badge/Rue_Des_Arts-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://shop.aishashok.com)
 [![Website](https://img.shields.io/badge/aishashok.com-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://www.aishashok.com)
 
 **🌱 Building at the intersection of AI and product. Always happy to chat about AI agents, product strategy, or founder journeys. Open to mentoring, collaborations, and interesting conversations.**
