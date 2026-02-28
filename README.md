@@ -13,7 +13,7 @@ Currently leading AI-led initiatives at [Stitchflow](https://www.stitchflow.com)
 - AR/XR: building immersive experiences like [Bengaluru Hogona AR](https://github.com/aishwaryaashok14/bengaluru-hogona-ar)
 - GenAI + Video: exploring AI-driven filmmaking and video workflows
 - Product strategy: positioning, GTM, competitive analysis, growth loops
-- Builder tools: Figma, Python, no-code/low-code, rapid prototyping
+- Builder tools: Augment, Codex, Claude Code, Google AI Studio, Cursor 
 
 <h2> About Me </h2>
 
