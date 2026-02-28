@@ -37,6 +37,7 @@ Currently leading AI-led initiatives at [Stitchflow](https://www.stitchflow.com)
 
 | Project | Description |
 |---|---|
+| [**Typeletter**](https://typeletter.aishashok.com) | A virtual typewriter for mindful, distraction-free writing. Realistic keystrokes, ambient soundscapes (rain, jazz, beach), ink colors, wax seals, and email/image export. Built with React. **Featured in the Product Hunt newsletter.** |
 | [bengaluru-hogona-ar](https://github.com/aishwaryaashok14/bengaluru-hogona-ar) | AR experience bringing scenes from Bengaluru to life |
 | [personal-reflections-os](https://github.com/aishwaryaashok14/personal-reflections-os) | A personal reflections operating system for structured thinking |
 | One Good Thing | No-code pandemic wellness curation tool |
@@ -61,6 +62,7 @@ Currently leading AI-led initiatives at [Stitchflow](https://www.stitchflow.com)
 [![Podcast](https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/7xov9chTGQ5F9rP5N0J78v)
 [![AI Films](https://img.shields.io/badge/AI_Films-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aishwaryaashok)
 [![Podcast YT](https://img.shields.io/badge/Podcast_YT-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thefoundersfoyer)
+[![Typeletter](https://img.shields.io/badge/Typeletter-8B4513?style=for-the-badge&logo=react&logoColor=white)](https://typeletter.aishashok.com)
 [![Art Shop](https://img.shields.io/badge/Rue_Des_Arts-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://shop.aishashok.com)
 [![Website](https://img.shields.io/badge/aishashok.com-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://www.aishashok.com)
 
