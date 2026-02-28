@@ -1,58 +1,53 @@
-# Hey, I'm Aishwarya Ashok
+<h1> Hi, I'm Aishwarya 👋 </h1>
 
-**Product Lead | Forward-Deployed AI PM | Builder**
+I build AI-first products and ship them — from zero-to-one platforms to agent-powered tools that solve real problems.
 
-I'm a product builder with 9+ years in SaaS — currently leading AI-first initiatives at [Stitchflow](https://www.stitchflow.com). I've shipped zero-to-one products, scaled product marketing, and worked across MarTech automation, real-time collaboration platforms, and event technology.
+9+ years in SaaS, now fully focused on AI agents, orchestration, and turning models into products people actually use. I've been a founding PM, a product marketer, a podcast creator, and a mentor — always building, always shipping.
 
-These days, I'm deep into AI agents, orchestration, and turning models into working products.
+Currently leading AI-led initiatives at [Stitchflow](https://www.stitchflow.com), working with models, agents, and orchestration tools to reimagine corporate IT visibility.
 
----
+**What I work on**
 
-### What I'm Working On
+- AI Products: agents, orchestration, LLM-powered workflows, prompt engineering
+- Zero-to-one: taking products from idea → prototype → shipped (did this with VaniHQ, Event Tech SDK, and more)
+- AR/XR: building immersive experiences like [Bengaluru Hogona AR](https://github.com/aishwaryaashok14/bengaluru-hogona-ar)
+- GenAI + Video: exploring AI-driven filmmaking and video workflows
+- Product strategy: positioning, GTM, competitive analysis, growth loops
+- Builder tools: Figma, Python, no-code/low-code, rapid prototyping
 
-- Building AI-led products at **Stitchflow** — corporate IT visibility powered by AI
-- Creating [**The Founder's Foyer**](https://www.thefoundersfoyer.com) — a podcast and builder collective for founders
-- Mentoring early-stage entrepreneurs through **Stanford Seed** and **ADPList**
-- Exploring **GenAI filmmaking** and **AI + video workflows**
+<h2> About Me </h2>
 
-### What I've Built & Shipped
+- **Product Lead** at [Stitchflow](https://www.stitchflow.com) — building AI-first corporate IT visibility products, working across agents, models, and orchestration tools.
 
-- **VaniHQ** — Founding PM for a visual collaboration platform at Zoho (0 → 1)
-- **Event Tech SDK** — Hardware + SDK product for event technology at Zoho
-- **MarTech Automation** — Led product marketing for omnichannel marketing tools
-- **One Good Thing** — A no-code pandemic wellness curation tool
+- **8+ years at Zoho Corporation** — Founding PM of **VaniHQ** (visual collaboration platform, 0 → 1), Product Manager for **Hardware + SDK in Event Tech**, and Lead Product Marketer for **MarTech/Omnichannel automation**.
 
-### Writing & Talks
+- Creator of [**The Founder's Foyer**](https://www.thefoundersfoyer.com) — a podcast and builder collective for founders. **1st Place**, Professional–Indie Podcast Category, Battle of Voices 2024. Listen on [Spotify](https://open.spotify.com/show/7xov9chTGQ5F9rP5N0J78v) or [Apple Podcasts](https://podcasts.apple.com/podcast/the-founders-foyer).
 
-- Published in **AI Time Journal**, **G2**, **Digital Marketing Magazine**, and **The Hindu**
-- **LinkedIn Top 200 Creators in India** (2022) — $2K Creator Accelerator grant recipient
-- Co-authored poetry collections: *Whistling Silence*, *Rekha Scribbles*
-- HBR Advisory Council member
+- **Stanford Seed Mentor** — mentoring early-stage B2B/SaaS entrepreneurs. Previously mentored 500+ minutes on [ADPList](https://adplist.org).
 
----
+- **LinkedIn Top 200 Creator in India** (2022) — awarded $2,000 Creator Accelerator grant. Published in **AI Time Journal**, **G2**, **Digital Marketing Magazine**, **The Hindu**, and **Email on Acid**.
 
-### Tech & Tools I Work With
+- **HBR Advisory Council** member — providing editorial insights for Harvard Business Review.
 
-`AI Agents` `LLMs` `RAG` `Prompt Engineering` `Product Strategy` `Figma` `Python` `No-Code/Low-Code` `AR/XR`
+- Co-authored poetry collections: _**["Whistling Silence"](https://storymirror.com)**_ and _**"Rekha Scribbles"**_ — because building isn't just about code.
 
----
+- **Silver Medallist** at SSN College of Engineering — B.E. in Electronics & Communications, Top 0.1% of Anna University ECE department.
 
-### Featured Projects
+<h2> Featured Projects </h2>
 
-| Project | What It Is |
+| Project | Description |
 |---|---|
-| [bengaluru-hogona-ar](https://github.com/aishwaryaashok14/bengaluru-hogona-ar) | AR experience for scenes from Bengaluru |
-| [personal-reflections-os](https://github.com/aishwaryaashok14/personal-reflections-os) | A personal reflections operating system |
+| [bengaluru-hogona-ar](https://github.com/aishwaryaashok14/bengaluru-hogona-ar) | AR experience bringing scenes from Bengaluru to life |
+| [personal-reflections-os](https://github.com/aishwaryaashok14/personal-reflections-os) | A personal reflections operating system for structured thinking |
+| One Good Thing | No-code pandemic wellness curation tool |
+| VaniHQ | Visual collaboration platform — built 0 → 1 at Zoho |
 
----
+<h2> Connect </h2>
 
-### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-ashok/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://aishwarya.substack.com/)
+[![Spotify](https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/7xov9chTGQ5F9rP5N0J78v)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thefoundersfoyer)
+[![Website](https://img.shields.io/badge/aishashok.com-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://www.aishashok.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-ashok/)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://aishwarya.substack.com/)
-[![Spotify](https://img.shields.io/badge/Podcast-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/show/7xov9chTGQ5F9rP5N0J78v)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=about.me&logoColor=white)](https://www.aishashok.com)
-
----
-
-*"Obsessed with turning ideas into working tools — especially with AI."*
+**🌱 Building at the intersection of AI and product. Always happy to chat about AI agents, product strategy, or founder journeys. Open to mentoring, collaborations, and interesting conversations.**
