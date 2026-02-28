@@ -2,7 +2,7 @@
 
 I build AI-first products and ship them — from zero-to-one platforms to agent-powered tools that solve real problems.
 
-9+ years in SaaS, now fully focused on AI agents, orchestration, and turning models into products people actually use. I've been a founding PM, a product marketer, a podcast creator, and a mentor — always building, always shipping.
+9+ years in SaaS, now fully focused on AI agents, orchestration, and turning models into products people actually use. I've been a founding PM, a product marketer, a podcast creator, and a mentor — always building, always shipping. Formerly lead and grew products + teams at Zoho Corp.
 
 Currently leading AI-led initiatives at [Stitchflow](https://www.stitchflow.com), working with models, agents, and orchestration tools to reimagine corporate IT visibility.
 
